@@ -1,0 +1,11 @@
+Threads,Execution Time (s),Speedup
+2,0.000094,0.499999
+4,0.000125,0.375999
+8,0.000141,0.333333
+12,0.000218,0.215596
+16,0.000297,0.158249
+24,0.000407,0.115479
+Scheduling Method,Execution Time (s)
+Static,0.000421
+Dynamic,0.000407
+Guided,0.000422
